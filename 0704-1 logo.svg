@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="92.15097mm"
+   height="95.377495mm"
+   viewBox="0 0 92.15097 95.377495"
+   version="1.1"
+   id="svg5439"
+   inkscape:version="1.1 (c4e8f9e, 2021-05-24)"
+   sodipodi:docname="0704-1 logo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview5441"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="0.55589226"
+     inkscape:cx="119.6275"
+     inkscape:cy="402.05633"
+     inkscape:window-width="1332"
+     inkscape:window-height="847"
+     inkscape:window-x="43"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs5436" />
+  <g
+     inkscape:label="圖層 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-29.452227,-41.765127)">
+    <rect
+       style="fill:#2c5aa0;stroke-width:0.309914;stroke-linecap:round;stroke-linejoin:round"
+       id="rect5721"
+       width="8"
+       height="75.677879"
+       x="49.505779"
+       y="55.051922" />
+    <rect
+       style="fill:#2c5aa0;stroke-width:0.320788;stroke-linecap:round;stroke-linejoin:round"
+       id="rect5723"
+       width="10"
+       height="33.379807"
+       x="85.846024"
+       y="29.608204"
+       transform="rotate(13.952578)" />
+    <path
+       style="color:#000000;fill:#2c5aa0;stroke-width:0.330696;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+       d="M 91.498812,53.241127 103.14476,56.134551 83.01838,137.14262 71.372432,134.2492 Z"
+       id="rect5725"
+       sodipodi:nodetypes="ccccc" />
+    <rect
+       style="fill:#2c5aa0;stroke-width:0.421206;stroke-linecap:round;stroke-linejoin:round"
+       id="rect5727"
+       width="14"
+       height="30"
+       x="118.14117"
+       y="29.608204"
+       transform="rotate(13.952578)" />
+    <rect
+       style="fill:#2c5aa0;stroke-width:0.380953;stroke-linecap:round;stroke-linejoin:round"
+       id="rect5729"
+       width="60"
+       height="10"
+       x="61.603195"
+       y="79.964432" />
+    <rect
+       style="fill:#2c5aa0;stroke-width:0.306316;stroke-linecap:round;stroke-linejoin:round"
+       id="rect5731"
+       width="55"
+       height="6"
+       x="61.603195"
+       y="99.848396" />
+    <rect
+       style="fill:#2c5aa0;stroke-width:0.688978;stroke-linecap:round;stroke-linejoin:round"
+       id="rect6090"
+       width="21.477709"
+       height="71.692177"
+       x="55.429916"
+       y="29.263332"
+       transform="rotate(13.952578)" />
+  </g>
+</svg>
